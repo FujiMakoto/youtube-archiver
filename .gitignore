@@ -1,6 +1,16 @@
 # Ignore local configuration
 config.ini
 
+# Ignore downloaded videos
+.mp4
+.mp3
+.flac
+.m4v
+.flv
+.part
+.webm
+output/*
+
 # Created by .ignore support plugin (hsz.mobi)
 ### Linux template
 *~
