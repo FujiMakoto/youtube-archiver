@@ -1,3 +1,6 @@
+# Ignore local configuration
+config.ini
+
 # Created by .ignore support plugin (hsz.mobi)
 ### Linux template
 *~
