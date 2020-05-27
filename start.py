@@ -11,8 +11,8 @@ async def main():
             archiver.run()
             await asyncio.sleep(15.0)
         except:
-            log.exception("An unknown error occurred while checking mentions")
-            await asyncio.sleep(45.0)
+            log.exception("An unknown error occurred while processing downloads")
+            await asyncio.sleep(60.0)
 
 
 if __name__ == '__main__':
